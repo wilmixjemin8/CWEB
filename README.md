@@ -1,7 +1,7 @@
 # CWEB
 CWEB  :  CWEB  stands  for  cloud  web  technologies  with WALLET.  
 
-CWEB Technologies consists  of 100 technologies and   WEB1.0,WEB2.0, WEB3.0  is invented   by  wilmix  jemin  j.
+CWEB Technologies consists  of 100 technologies and   WEB1.0,WEB2.0, WEB3.0,WEB4.0,WEB 5.0  is invented   by  wilmix  jemin  j.
 
 CWEB Section contains   
 
@@ -11,8 +11,12 @@ a) WEB1.0,WEB2.0, WEB3.0
 
 b) WEB4.0 
 
-c) WEB5.0 
+c) WEB5.0 (most Powerful Advanced Business).
+it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
+(infinitive  pow  infinitive pow infinitive  and  so on....)
+
+(Can't be determined)
 ......
 
 
