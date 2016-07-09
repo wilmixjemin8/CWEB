@@ -41,6 +41,19 @@ so  it's  rank  is  shifted  to  Rank 7.
 
 It  is   also one of  CWEB  Technologies.
 
+h)
+
+
+WEB 9.0:
+========
+
+ HIBER  is part of CWEB family but  is  otherwise  known  as  WEB 9.0.
+
+so  it's  rank  is  shifted  to  Rank 9.
+
+It  is   also one of  CWEB  Technologies.
+
+
 
 
 100) WEB100.0
