@@ -20,6 +20,29 @@ it is ranked as Rank Z''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ......
 d) WEB6.0=>AJAVA(ADVANCEDJAVA with JAS)
 
+f)
+WEB 8.0:
+========
+
+ODollar is part of (RGX) family but  is  otherwise  known  as  WEB 8.0.
+
+so  it's  rank  is  shifted  to  Rank 8.
+
+It  is   also one of  CWEB  Technologies.
+
+g) 
+
+WEB 7.0:
+========
+
+IDollar is part of (RGX) family but  is  otherwise  known  as  WEB 7.0.
+
+so  it's  rank  is  shifted  to  Rank 7.
+
+It  is   also one of  CWEB  Technologies.
+
+
+
 100) WEB100.0
 
 These  are Advanced  cloud  Technolgies with  wallet.....
