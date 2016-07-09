@@ -60,7 +60,7 @@ It  is   also one of  CWEB  Technologies.
 
 These  are Advanced  cloud  Technolgies with  wallet.....
 
-Note: This   Web 7.0 and  Web  8.0 Technologies .... will  be  invented later  in  year  2017. 
+Note: Remaining Technologies .... will  be  invented later  in  year  2017. 
 Note: Web3.0  technology  url is  : http://wilmix7.github.io/WEB3.0.
 Note: after  100  technologies came to  an end  and  after  that ..........
 Wilmix  real  Most  powerful   technology will come  after   2020  which  is  ????.
