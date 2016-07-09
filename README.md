@@ -18,7 +18,7 @@ it is ranked as Rank Z''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 (Can't be determined)
 ......
-
+d) WEB6.0=>AJAVA(ADVANCEDJAVA with JAS)
 
 100) WEB100.0
 
