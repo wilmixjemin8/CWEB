@@ -6,7 +6,7 @@ CWEB Technologies consists  of 100 technologies and   WEB1.0, WEB3.0,WEB 5.0  is
 CWEB Section contains   
 
 
-a) WEB1.0,WEB2.0, WEB3.0
+a) WEB1.0, WEB3.0
 
 
 
