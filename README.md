@@ -31,3 +31,10 @@ Note: Web3.0  technology  url is  : http://wilmix7.github.io/WEB3.0.
 
 Wilmix  real  Most  powerful   technology will come  after   2020  which  is  ????.
 
+Note:
+======
+
+It consists of 1000 modules related to Advanced Business which will be listed later.
+
+CWEB consists of 1 billion jsword AdvancedBusiness ; so CWEB
+is the most powerful technology in the world and it is greater than any technology.
