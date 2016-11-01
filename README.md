@@ -5,9 +5,9 @@ CWEB  is   a   Section   like JDollar  Section.
 
 CWEB  is   used  for  Dotnet  and  C/C++ with  Remote-web-application.
 
-CWEB P.Ls consists  of some Programming Languages  and  Advanced  Business  Technolgies  like  web5.0
+CWEB P.Ls consists  of some Programming Languages  and  Advanced  Business  Technolgies  like  web5.0,etc.
 
-and   WEB1.0, WEB3.0,Web2.0 ,etc  is invented   by  wilmix  jemin  j.
+   are  invented   by  wilmix  jemin  j.
 
 CWEB Section contains   
 
