@@ -30,9 +30,9 @@ d) WEB6.0=>AJAVA(ADVANCEDJAVA with JAS)
 
 10) WEB10.0
 
-These  are Advanced  cloud  Webapplication with  wallet.....
+These  are Advanced  remote  Webapplication or  terminal  webservice with  wallet.....
 
-Note: Remaining Technologies .... will  be  invented later  in  year  2017. 
+Note: Remaining Technologies, programming langauages  .... will  be  invented later  in  year  2017. 
 
 
 Wilmix  real  Most  powerful  Programming Language will come  after   2020  which  is  ????.
