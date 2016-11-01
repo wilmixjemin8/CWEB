@@ -1,7 +1,11 @@
 # CWEB
-CWEB  :  CWEB  stands  for  cloud  web  technologies  with WALLET.  
+CWEB  :  CWEB  stands  for   Remote web application with WALLET.  
 
-CWEB Technologies consists  of 10 technologies and   WEB1.0, WEB3.0,WEB 5.0  is invented   by  wilmix  jemin  j.
+CWEB  is   a   Section   like JDollar  Section.  
+
+CWEB  is   used  for  Dotnet  and  C/C++ with  Remote-web-application.
+
+CWEB P.Ls consists  of 10 Programming Langauages and   WEB1.0, WEB3.0,WEB 5.0  is invented   by  wilmix  jemin  j.
 
 CWEB Section contains   
 
@@ -24,17 +28,19 @@ d) WEB6.0=>AJAVA(ADVANCEDJAVA with JAS)
 
 10) WEB10.0
 
-These  are Advanced  cloud  Technolgies with  wallet.....
+These  are Advanced  cloud  Webapplication with  wallet.....
 
 Note: Remaining Technologies .... will  be  invented later  in  year  2017. 
-Note: Web3.0  technology  url is  : http://wilmix7.github.io/WEB3.0.
 
-Wilmix  real  Most  powerful   technology will come  after   2020  which  is  ????.
+
+Wilmix  real  Most  powerful  Programming Language will come  after   2020  which  is  ????.
+
+It consists of 1000 modules related to Advanced Business which will be listed later.
 
 Note:
 ======
 
-It consists of 1000 modules related to Advanced Business which will be listed later.
+
 
 CWEB consists of 1 billion jsword AdvancedBusiness ; so CWEB
-is the most powerful technology in the world and it is greater than any technology.
+is the most powerful Programming Language Section in the world and it is greater than any P.L.
