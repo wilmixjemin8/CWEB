@@ -1,7 +1,7 @@
 # CWEB
 CWEB  :  CWEB  stands  for   Remote web application with WALLET.  
 
-CWEB  is   a   Section   like JDollar  Section.  
+
 
 CWEB  is   used  for  Dotnet  and  C/C++ with  Remote-web-application.
 
