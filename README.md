@@ -24,7 +24,7 @@ it is ranked as Rank Z''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 (Can't be determined)
 ......
-d) WEB6.0=>AJAVA(ADVANCEDJAVA with JAS)
+d) WEB6.0=>AJAVA(ADVANCEDJAVA with NJ$)
 
 
 
